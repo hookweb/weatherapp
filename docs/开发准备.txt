@@ -1,0 +1,32 @@
+前端：
+
+ 1：SUI Mobile：实现网站的UI 交互效果
+    官网：http://m.sui.taobao.org/
+
+ 2：Vue.js 网站业务功能实现这款的框架
+    官网：https://cn.vuejs.org/
+
+ 3：ajax插件：vue-resource  axios  vue的ajax插件
+    官网：https://github.com/pagekit/vue-resource
+
+后端：
+ 1：Api 数据接口：http://api.map.baidu.com/telematics/v3/weather
+    官网：http://lbsyun.baidu.com/index.php?title=car/api/weather 
+
+ 2：获取用户ip地址：http://pv.sohu.com/cityjson?ie=utf-8
+ 3：通过ip地址获取用户当前真实GPS地址：
+    http://api.map.baidu.com/location/ip?ak=t1fLY5kTo0eegUAqtENfvPzn&ip=
+
+
+#fdd73f 
+
+#e7648f
+
+#dd4879
+
+背景色渐变：
+
+  background: -webkit-linear-gradient(#dd4879 , #fdd73f);
+  background: -o-linear-gradient(#dd4879 , #fdd73f);
+  background: -moz-linear-gradient(#dd4879 , #fdd73f);
+  background: linear-gradient(#dd4879 , #fdd73f);
